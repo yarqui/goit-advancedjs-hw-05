@@ -16,6 +16,6 @@
     "target": "es2019",
     "sourceMap": true
   },
-  "include": ["./src/**/*.ts"],
+  "include": ["**/*.ts"],
   "exclude": ["./node_modules", "**/*.spec.ts"]
 }
